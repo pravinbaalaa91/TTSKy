@@ -7,11 +7,10 @@ project:
   language:     "Verilog"
   clock_hz:     0
   tiles:        "1x1"
-  top_module:   "tt_um_yourgithub_pwm"
+  top_module:   "tt_um_pwm"
 
   source_files:
-    - "src/pwm.v"
-    - "src/tt_um_yourgithub_pwm.v"
+    - "project.v"
 
 pinout:
   # Inputs
