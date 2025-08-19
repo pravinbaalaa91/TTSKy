@@ -1,4 +1,4 @@
-module tt_um_yourgithub_pwm (
+module tt_um_pwm (
     input  wire clk,
     input  wire rst_n,
     input  wire [7:0] ui_in,
