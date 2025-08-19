@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "PWM Generator"
-  author:       "Your Name"
+  author:       "pravinbaalaa91"
   discord:      ""  # optional
   description:  "PWM generator with duty cycle control via ui_in[6:0]"
   language:     "Verilog"
