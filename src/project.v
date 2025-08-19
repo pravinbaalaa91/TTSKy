@@ -1,4 +1,4 @@
-module tt_um_pwm (
+module tt_um_pravinbaalaa91_pwm (
     input  wire clk,
     input  wire rst_n,
     input  wire [7:0] ui_in,
