@@ -36,10 +36,6 @@ module tt_um_pwm (
 
 endmodule
 
-
-// ----------------------------------------------------
-// PWM generator logic
-// ----------------------------------------------------
 module pwm (
     input clk,
     input reset,
