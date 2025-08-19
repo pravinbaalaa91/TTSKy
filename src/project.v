@@ -14,7 +14,7 @@ module tt_um_pwm (
 
     // Duty cycle from ui_in[6:0]
     wire [6:0] dc = ui_in[6:0];
-    wire pwm_out, pwm_out1;
+    reg pwm_out, pwm_out1;
 
     // Internal PWM module
     pwm pwm_inst (
