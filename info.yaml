@@ -7,7 +7,7 @@ project:
   language:     "Verilog"
   clock_hz:     0
   tiles:        "1x1"
-  top_module:   "tt_um_pravinbaalaa91_pwm"
+  top_module:   "tt_um_code123456_pwm"
 
   source_files:
     - "project.v"
