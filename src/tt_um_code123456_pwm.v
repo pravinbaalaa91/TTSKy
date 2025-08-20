@@ -20,7 +20,7 @@ module tt_um_code123456_pwm (
     // Internal PWM module
     pwm pwm_inst (
         .clk(clk),
-        .reset(~rst_n),
+        .rst_n(~rst_n),
         .dc(dc),
         .pwm_out(pwm_out),
         .pwm_out1(pwm_out1)
